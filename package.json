@@ -3,6 +3,10 @@
   "description": "core javascript functionality for storediq apps",
   "contributors": [
     {
+      "name": "Ralph Smith",
+      "email": "ralphsmith80@gmail.com"
+    },
+    {
       "name": "Aaron Stacy",
       "email": "astacy@storediq.com"
     },
@@ -16,7 +20,7 @@
     "url": "git://github.com/ralphsmith80/bedrockjs.git"
   },
   "dependencies": {
-    "siq-vendor-js": "git://github.com/ralphsmith80/siq-vendor-js.git"
+    "gloss-vendor": "git://github.com/ralphsmith80/gloss-vendor.git"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
